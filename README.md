@@ -1,8 +1,6 @@
-### Hi there 👋
+👋
 
-
-
-##Hi Everyone, Mehul this side 👋 
+Hi Everyone, Mehul this side 👋 
 I am currently learning Web Development & Data Structures and Algorithms in C++.
 I am looking to collaborate with fellow web developers for knowledge sharing and to learn more.
 
