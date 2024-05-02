@@ -1,12 +1,13 @@
 👋
 
 Hi Everyone, Mehul this side 👋 
-I am currently learning Web Development & Data Structures and Algorithms in C++.
-I am looking to collaborate with fellow web developers for knowledge sharing and to learn more.
+I am currently working as a SDE-Backend at a Fintech Startup & building projects around Generative AI.
+I am looking to collaborate with fellow web developers and people into GenAI and AI/ML for knowledge sharing and to learn more.
+- 🔭 I’m currently working on my Startup which is somewhat related to Indian Culture
 
-You can reach out to me at [Say Hi](https://www.linkedin.com/in/mehulaswar06/)
+Interested in talking around tech, product, & entrepreneurship, do hit me up at [Say Hi](https://www.linkedin.com/in/mehulaswar06/)
+
 <!--
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
